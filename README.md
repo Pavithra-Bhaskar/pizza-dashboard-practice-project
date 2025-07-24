@@ -68,11 +68,11 @@ It’s built as a portfolio learning project to strengthen my Power BI and data 
 
 ### 3. **DAX Measures**
 
-#######Total Revenue = SUM(pizza_sales[total_price]) 
-#######Total Orders = DISTINCTCOUNT(pizza_sales[order_id])
-#######Average Order Value = [Total Revenue] / [Total Orders]
-#######Total Pizzas Sold = SUM(pizza_sales[quantity])
-#######Average Pizzas per Order = [Total Pizzas Sold] / [Total Orders]
+- Total Revenue = SUM(pizza_sales[total_price]) 
+- Total Orders = DISTINCTCOUNT(pizza_sales[order_id])
+- Average Order Value = [Total Revenue] / [Total Orders]
+- Total Pizzas Sold = SUM(pizza_sales[quantity])
+- Average Pizzas per Order = [Total Pizzas Sold] / [Total Orders]
 
 ### 4. **Visualization**
 
