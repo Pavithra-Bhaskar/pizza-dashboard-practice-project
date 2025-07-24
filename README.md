@@ -22,14 +22,14 @@ It’s built as a portfolio learning project to strengthen my Power BI and data 
 
 
 ### 🔹 Full Dashboard View  
-![Home Page](pizza-sales-dashboard-snapshots/HomePage.png)
-![Best Seller and Worst Seller Page](pizza-sales-dashboard-snapshots/BestSellerandWorstSellerPage.png)
+![Home Page](pizza-sales-dashboard-snapshots/Home-Page.png)
+![Best Seller and Worst Seller Page](pizza-sales-dashboard-snapshots/Best-Seller-and-Worst-Seller-Page.png)
 
 ### 🔹 Sales Trends  
-![Sales Trend](pizza-sales-dashboard-snapshots/SalesTrend.png)
+![Sales Trend](pizza-sales-dashboard-snapshots/Sales-Trend.png)
 
 ### 🔹 Top Pizzas  
-![Top Pizzas](pizza-sales-dashboard-snapshots/Top5Pizza.png)
+![Top Pizzas](pizza-sales-dashboard-snapshots/Top-5-Pizza.png)
 
 ### 🔹 KPIs
 ![KPIs](pizza-sales-dashboard-snapshots/KPIs.png)
