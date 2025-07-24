@@ -9,7 +9,7 @@ This is a practice project I completed by following a [Power BI tutorial on YouT
 This Power BI dashboard provides business insights into a pizza company’s performance, highlighting:
 
 - 💰 Total Revenue and Average Order Value  
-- 📈 Sales Trends by Day and Hour  
+- 📈 Daily and Monthly Sales Trend
 - 🍕 Top-Selling Pizzas  
 - 📦 Sales Breakdown by Pizza Size and Category  
 - 🔍 Interactive filters for deeper analysis
