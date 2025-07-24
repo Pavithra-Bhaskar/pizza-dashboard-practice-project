@@ -29,7 +29,7 @@ It’s built as a portfolio learning project to strengthen my Power BI and data 
 ![Sales Trend](pizza-sales-dashboard-snapshots/Sales Trend.png)
 
 ### 🔹 Top Pizzas  
-![Top Pizzas](pizza-sales-dashboard-snapshots/Top 5 Pizza.png))
+![Top Pizzas](pizza-sales-dashboard-snapshots/Top 5 Pizza.png)
 
 ### 🔹 KPIs
 ![KPIs](pizza-sales-dashboard-snapshots/KPIs.png)
