@@ -22,7 +22,9 @@ It’s built as a portfolio learning project to strengthen my Power BI and data 
 
 
 ### 🔹 Full Dashboard View  
+####  Home Page
 ![Home Page](pizza-sales-dashboard-snapshots/Home-Page.png)
+####  Best Seller and Worst Seller Page
 ![Best Seller and Worst Seller Page](pizza-sales-dashboard-snapshots/Best-Seller-and-Worst-Seller-Page.png)
 
 ### 🔹 Sales Trends  
