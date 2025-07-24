@@ -45,7 +45,7 @@ It’s built as a portfolio learning project to strengthen my Power BI and data 
 | `Pizza_Sales_Dashboard.pbix` | Power BI file containing the report |
 | `pizza-sales-dashboard-snapshots` | Dashboard screenshots |
 | `README.md` | Project documentation |
-|  `pizzasales.csv` | Source data used in the project  |
+|  `pizza_sales.csv` | Source data used in the project  |
 
 ---
 
