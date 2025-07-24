@@ -1,4 +1,4 @@
-# 🍕 Pizza Dashboard Practice Project (Power BI)
+# 🍕 Pizza Sales Dashboard Practice Project (Power BI)
 
 This is a practice project I completed by following a [Power BI tutorial on YouTube](https://youtu.be/V-s8c6jMRN0?si=WtgpeYkChLCJ4MHR). It helped me learn the end-to-end process of building an interactive dashboard to analyze pizza sales data — including data transformation, data modeling, DAX measures, and storytelling through visualizations.
 
